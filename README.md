@@ -1,2 +1,3 @@
-# term-deposit-proj
-classification projects
+# Term Deposit Marketing Campaign
+
+## The main objective of this project is to enhance the effectiveness of customer outreach. This project will harness the power of call center data to create a resilient machine learning model to accomplish this. The model aims to optimise the success rate of calls made to customers, resulting in improved outcomes for products that customers might interested in. A key element the project is ensure the model not only delivers high call success rates, but also provides interpretability. This interpretability empowers executives to make well informed decisions based on the machine learning model from this project.
